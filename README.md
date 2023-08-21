@@ -1,2 +1,2 @@
-# blog-comments
-Comments of my blog is stored in this public repo.
+# comments
+Comments of my static websites (including my blog) is stored in this public repository.
